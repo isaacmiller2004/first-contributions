@@ -15,19 +15,6 @@
   Rohit Chavan:  My First controbution
   [Piyush Mandloi](https://github.com/piyush0mandloi)
 - [Somto Ogbe](https://github.com/somtoval)
-- [Vorahpong Mean](https://github.com/VorahPong)
-- [Vivek Chudasama](https://github.com/vivekchudasama-2004)
-- Infernal Blueberry
-- Annie was here
-- [haruna libero](https://github.com/harunalibero)
-- [burgosricard0](https://github.com/BurgosRicard0)
-- [HAONAN TAO](https://github.com/HAONANTAO)
-- [HayatZarine](https://github.com/HayatZarine): Hello OpenSource world!
-- [Leonardo Carvalho Machado](https://github.com/leonardocarmac)
-- DJ was here
-- Saiteja
-- [Divine Success](https://github.com/Successinnovatia) 
-- [Younis Ayoub](https://github.com/younisdev): Hello World!
 - [Faiz Khan](https://github.com/calvincandiec137):
 - [Pedro Arias](https://github.com/pedarias) -[Aakash Gaur](https://github.com/aakashGaur03)
 - [Mehul Kaushik](https://github.com/Epicguest97)
